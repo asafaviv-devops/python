@@ -1,0 +1,21 @@
+asaf = list(range(1,100))
+print(asaf)
+asaf.append('yossi')
+print(asaf)
+asaf[0] = 2
+print(asaf)
+asaf.pop()
+print(asaf)
+asaf.insert(0,"asaf")
+print(asaf)
+asaf.remove(99)
+print(asaf)
+asaf.sort
+print(asaf)
+print(len(asaf))
+asaf.pop(0)
+print(asaf)
+for v in asaf:
+    print(v)
+list1 = list(range(1,100))
+print(list1[:2])
