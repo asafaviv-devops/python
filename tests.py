@@ -2,4 +2,4 @@ def f(x,l=[]):
     for i in range(x):
         l.append(i*i)
         print(l)
-f(8)
+f(9)
